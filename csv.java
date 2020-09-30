@@ -8,7 +8,7 @@ import java.util.LinkedList;
 import java.util.List;
 
 public class csv {
-   //read data from a csv file and return as li
+   //read data from a csv file and return as lii
 	public static List<String[]> read(String file)
 	{
 		List<String[]> data = new LinkedList<String[]>();
